@@ -29,7 +29,7 @@
 
 ### From a `.vsix` package (recommended)
 
-1. Download `vscode-extension-flat-ui-color-picker-2.0.0.vsix` from the releases page (or build it yourself — see below).
+1. Download `vscode-extension-flat-ui-color-picker-1.0.0.vsix` from the releases page (or build it yourself — see below).
 2. Open VS Code.
 3. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 4. Run **Extensions: Install from VSIX…**
