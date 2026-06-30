@@ -3,7 +3,7 @@
   "displayName": "Flat UI Color Picker",
   "description": "Browse, filter by shade, and copy Flat UI color codes in HEX, RGB, HSL, and CMYK formats",
   "version": "1.0.0",
-  "publisher": "local-dev",
+  "publisher": "SuryaPrakashPandurangi",
   "engines": {
     "vscode": "^1.85.0"
   },
